@@ -1,2 +1,2 @@
 # greensway.github.io
-![Image](.img/1h.png)
+![Logo](./img/1h.png)
