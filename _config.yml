@@ -1,6 +1,6 @@
 title: Minimal theme
-logo: /img/ih.png
-description: Minimal is a theme for GitHub Pages.
+logo: ./img/ih.png
+description: Documentation page for Canopy
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
